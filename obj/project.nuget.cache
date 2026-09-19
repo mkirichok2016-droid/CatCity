@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AlYjjBcWmUY=",
+  "success": true,
+  "projectFilePath": "/Users/markkirichok/Documents/programming/CatCity/test.csproj",
+  "expectedPackageFiles": [
+    "/Users/markkirichok/.nuget/packages/system.io.pipelines/9.0.10/system.io.pipelines.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
