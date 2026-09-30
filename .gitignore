@@ -1,3 +1,4 @@
 bin/
 obj/
 test.csproj.lscache
+.DS_Store
